@@ -1,7 +1,5 @@
 # Oi 👋
 
-I'm **Lucas Moreno** (Kurzgesagttt), always foward. 
-
 ---
 
 ## Stats  
