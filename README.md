@@ -2,9 +2,6 @@
 
 Me chamo Lucas Moreno, tenho 21 anos e tenho a pretenção de trabalhar na area dev back-end. Estou no quinto semestre de Engenharia de Software e trabalho com infraestrutura de rede
 
-- Back-End: Java, Spring Boot.
-- Banco de dados: MySQL, PostgreSQL, MongoDB.
-- Ferramentas: AWS, docker, Git e Github.
   
 ## 🚀 Tecnologias que estou estudando e utilizando
 <div style="display: inline_block">
