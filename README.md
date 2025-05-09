@@ -22,9 +22,9 @@ Me chamo Lucas Moreno, tenho 21 anos e tenho a pretenção de trabalhar na area 
 ## 📫 Contato
 
 <div> 
-  <a href="mailto:lucasmorenorodrigues@hotmail.com">
-    <img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-  </a>
+<a href="mailto:lucasmorenorodrigues@hotmail.com">
+  <img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+</a>
   <a href="https://www.linkedin.com/in/lucas-moreno-a26639294" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
