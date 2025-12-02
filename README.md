@@ -1,6 +1,6 @@
 ## Oi👋
 
-Me chamo Lucas Moreno, tenho 21 anos e tenho a pretenção de trabalhar na area dev back-end. Estou no sexto semestre de Engenharia de Software e trabalho com infraestrutura de rede
+Me chamo Lucas Moreno, tenho 21 anos e trabalho com Desenvolvimento de sistemas, atualmente trabalho com Java e JS.
 
   
 ## 🚀 Tecnologias que estou estudando e utilizando
