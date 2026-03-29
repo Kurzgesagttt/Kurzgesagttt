@@ -1,6 +1,6 @@
 ## Oi👋
 
-Me chamo Lucas Moreno, tenho 21 anos e trabalho com Desenvolvimento de sistemas, atualmente trabalho com Java e JS.
+Me chamo Lucas Moreno, tenho 22 anos e trabalho com Desenvolvimento de sistemas, atualmente trabalho com Java e JS.
 
   
 ## 🚀 Tecnologias que estou estudando e utilizando
