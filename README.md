@@ -1,6 +1,3 @@
-<img align="right" width="400" height="400"
-src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
-
 ## Oi👋
 
 Me chamo Lucas Moreno, tenho 22 anos e trabalho com Desenvolvimento de sistemas, atualmente trabalho com desenvolvimento web com Java.
