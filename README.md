@@ -88,8 +88,3 @@
 
 **IT Technician — Municipal Government of Promissão** *(Apr 2024 – Aug 2025)*
 > Resolved infrastructure and network issues, provided technical support for public service workflows, and assisted teams with system access and incident resolution.
-
-<p align="center">
-  <i>"A journey of a thousand miles begins with a single step."</i><br>
-  — Always learning, always building. 🚀
-</p>
