@@ -33,7 +33,7 @@
   <a href="mailto:Lucasmorenorodrigues@hotmail.com"><img src="https://img.shields.io/badge/email-%230078D4.svg?style=plastic&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/lucasmorenorodrigues/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Kurzgesagttt"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://portifolio-bw11t497n-lucas-morenos-projects.vercel.app/"><img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portifolio-rc7gn9vsv-lucas-morenos-projects.vercel.app/"><img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <hr>
